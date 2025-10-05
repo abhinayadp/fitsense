@@ -1,1 +1,2 @@
+fivetran-connector-sdk
 requests
